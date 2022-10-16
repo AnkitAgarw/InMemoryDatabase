@@ -14,6 +14,7 @@ public class Driver {
         db.addTable(table);
         Map<String, Object> values =new HashMap<> ();
         values.put("id",1);
+
         values.put("name","a");
         Row  row= new Row(values);
         table.insert(row);
