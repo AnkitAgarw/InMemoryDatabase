@@ -1,0 +1,7 @@
+Concrete classes:
+Column{type} // string //int
+Table{coulmnsList, rows}
+Row{values}
+Database{tables,names}
+
+
